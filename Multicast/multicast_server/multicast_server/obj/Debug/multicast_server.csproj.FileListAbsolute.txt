@@ -1,0 +1,7 @@
+C:\Users\ШахжановЕ\source\repos\multicast_server\multicast_server\bin\Debug\multicast_server.exe.config
+C:\Users\ШахжановЕ\source\repos\multicast_server\multicast_server\bin\Debug\multicast_server.exe
+C:\Users\ШахжановЕ\source\repos\multicast_server\multicast_server\bin\Debug\multicast_server.pdb
+C:\Users\ШахжановЕ\source\repos\multicast_server\multicast_server\obj\Debug\multicast_server.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\multicast_server\multicast_server\obj\Debug\multicast_server.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\multicast_server\multicast_server\obj\Debug\multicast_server.exe
+C:\Users\ШахжановЕ\source\repos\multicast_server\multicast_server\obj\Debug\multicast_server.pdb
