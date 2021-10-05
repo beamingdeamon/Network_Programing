@@ -1,0 +1,7 @@
+C:\Users\ШахжановЕ\source\repos\udp_file_serve\udp_file_serve\bin\Debug\udp_file_serve.exe.config
+C:\Users\ШахжановЕ\source\repos\udp_file_serve\udp_file_serve\bin\Debug\udp_file_serve.exe
+C:\Users\ШахжановЕ\source\repos\udp_file_serve\udp_file_serve\bin\Debug\udp_file_serve.pdb
+C:\Users\ШахжановЕ\source\repos\udp_file_serve\udp_file_serve\obj\Debug\udp_file_serve.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\udp_file_serve\udp_file_serve\obj\Debug\udp_file_serve.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\udp_file_serve\udp_file_serve\obj\Debug\udp_file_serve.exe
+C:\Users\ШахжановЕ\source\repos\udp_file_serve\udp_file_serve\obj\Debug\udp_file_serve.pdb

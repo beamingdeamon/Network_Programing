@@ -1,0 +1,7 @@
+C:\Users\ШахжановЕ\source\repos\Udp_Client\netstatInfo\bin\Debug\netstatInfo.exe.config
+C:\Users\ШахжановЕ\source\repos\Udp_Client\netstatInfo\bin\Debug\netstatInfo.exe
+C:\Users\ШахжановЕ\source\repos\Udp_Client\netstatInfo\bin\Debug\netstatInfo.pdb
+C:\Users\ШахжановЕ\source\repos\Udp_Client\netstatInfo\obj\Debug\netstatInfo.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\Udp_Client\netstatInfo\obj\Debug\netstatInfo.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\Udp_Client\netstatInfo\obj\Debug\netstatInfo.exe
+C:\Users\ШахжановЕ\source\repos\Udp_Client\netstatInfo\obj\Debug\netstatInfo.pdb

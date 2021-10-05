@@ -1,0 +1,7 @@
+C:\Users\ШахжановЕ\source\repos\Udp_Client\upd_file_client\bin\Debug\upd_file_client.exe.config
+C:\Users\ШахжановЕ\source\repos\Udp_Client\upd_file_client\bin\Debug\upd_file_client.exe
+C:\Users\ШахжановЕ\source\repos\Udp_Client\upd_file_client\bin\Debug\upd_file_client.pdb
+C:\Users\ШахжановЕ\source\repos\Udp_Client\upd_file_client\obj\Debug\upd_file_client.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\Udp_Client\upd_file_client\obj\Debug\upd_file_client.exe
+C:\Users\ШахжановЕ\source\repos\Udp_Client\upd_file_client\obj\Debug\upd_file_client.pdb
+C:\Users\ШахжановЕ\source\repos\Udp_Client\upd_file_client\obj\Debug\upd_file_client.csprojAssemblyReference.cache

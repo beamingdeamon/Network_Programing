@@ -1,0 +1,2 @@
+C:\Users\ШахжановЕ\source\repos\Udp_Client\newUdp_client\obj\Debug\newUdp_client.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\Udp_Client\newUdp_client\obj\Debug\newUdp_client.csproj.CoreCompileInputs.cache
