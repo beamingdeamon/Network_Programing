@@ -1,0 +1,7 @@
+C:\Users\ШахжановЕ\source\repos\broadcast_server\broadcast_server\bin\Debug\broadcast_server.exe.config
+C:\Users\ШахжановЕ\source\repos\broadcast_server\broadcast_server\bin\Debug\broadcast_server.exe
+C:\Users\ШахжановЕ\source\repos\broadcast_server\broadcast_server\bin\Debug\broadcast_server.pdb
+C:\Users\ШахжановЕ\source\repos\broadcast_server\broadcast_server\obj\Debug\broadcast_server.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\broadcast_server\broadcast_server\obj\Debug\broadcast_server.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\broadcast_server\broadcast_server\obj\Debug\broadcast_server.exe
+C:\Users\ШахжановЕ\source\repos\broadcast_server\broadcast_server\obj\Debug\broadcast_server.pdb
