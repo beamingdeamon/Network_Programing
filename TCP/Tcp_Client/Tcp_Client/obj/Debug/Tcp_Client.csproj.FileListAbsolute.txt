@@ -1,0 +1,7 @@
+C:\Users\ШахжановЕ\source\repos\Tcp_Client\Tcp_Client\bin\Debug\Tcp_Client.exe.config
+C:\Users\ШахжановЕ\source\repos\Tcp_Client\Tcp_Client\bin\Debug\Tcp_Client.exe
+C:\Users\ШахжановЕ\source\repos\Tcp_Client\Tcp_Client\bin\Debug\Tcp_Client.pdb
+C:\Users\ШахжановЕ\source\repos\Tcp_Client\Tcp_Client\obj\Debug\Tcp_Client.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\Tcp_Client\Tcp_Client\obj\Debug\Tcp_Client.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\Tcp_Client\Tcp_Client\obj\Debug\Tcp_Client.exe
+C:\Users\ШахжановЕ\source\repos\Tcp_Client\Tcp_Client\obj\Debug\Tcp_Client.pdb

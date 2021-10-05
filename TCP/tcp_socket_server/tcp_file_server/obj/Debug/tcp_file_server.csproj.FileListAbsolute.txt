@@ -1,0 +1,6 @@
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_file_server\bin\Debug\tcp_file_server.exe.config
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_file_server\bin\Debug\tcp_file_server.exe
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_file_server\bin\Debug\tcp_file_server.pdb
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_file_server\obj\Debug\tcp_file_server.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_file_server\obj\Debug\tcp_file_server.exe
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_file_server\obj\Debug\tcp_file_server.pdb

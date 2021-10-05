@@ -1,0 +1,7 @@
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_socket_server\bin\Debug\tcp_socket_server.exe.config
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_socket_server\bin\Debug\tcp_socket_server.exe
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_socket_server\bin\Debug\tcp_socket_server.pdb
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_socket_server\obj\Debug\tcp_socket_server.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_socket_server\obj\Debug\tcp_socket_server.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_socket_server\obj\Debug\tcp_socket_server.exe
+C:\Users\ШахжановЕ\source\repos\tcp_socket_server\tcp_socket_server\obj\Debug\tcp_socket_server.pdb

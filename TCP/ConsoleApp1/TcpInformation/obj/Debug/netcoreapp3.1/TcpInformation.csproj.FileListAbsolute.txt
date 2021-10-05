@@ -1,0 +1,13 @@
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\bin\Debug\netcoreapp3.1\TcpInformation.exe
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\bin\Debug\netcoreapp3.1\TcpInformation.deps.json
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\bin\Debug\netcoreapp3.1\TcpInformation.runtimeconfig.json
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\bin\Debug\netcoreapp3.1\TcpInformation.runtimeconfig.dev.json
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\bin\Debug\netcoreapp3.1\TcpInformation.dll
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\bin\Debug\netcoreapp3.1\TcpInformation.pdb
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\obj\Debug\netcoreapp3.1\TcpInformation.csprojAssemblyReference.cache
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\obj\Debug\netcoreapp3.1\TcpInformation.AssemblyInfoInputs.cache
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\obj\Debug\netcoreapp3.1\TcpInformation.AssemblyInfo.cs
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\obj\Debug\netcoreapp3.1\TcpInformation.csproj.CoreCompileInputs.cache
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\obj\Debug\netcoreapp3.1\TcpInformation.dll
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\obj\Debug\netcoreapp3.1\TcpInformation.pdb
+C:\Users\ШахжановЕ\source\repos\ConsoleApp1\TcpInformation\obj\Debug\netcoreapp3.1\TcpInformation.genruntimeconfig.cache
